@@ -90,7 +90,7 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className="text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-4xl animate-bounce">My Services</h3>
+            <h3 className="text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-4xl animate-bounce">About Me</h3>
             <p className="text-xl py-2 leading-8 text-gray-800 dark:text-gray-200">
             Amenable Software Engineer gifted at translating basic client requirements into technical development plans. Communicates productively with both technical and non-technical personnel and clients. Friendly provider of deep programming knowledge.
             </p>
